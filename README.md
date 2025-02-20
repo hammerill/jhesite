@@ -1,3 +1,5 @@
+<img src="./pics/jhesite-header.png" alt="J'hésite header" width="300" />
+
 # "J'hésite..." for Prépacode
 An extension for [Prépacode](https://www.prepacode-enpc.fr/) that lets you tell if you hesitate to answer the question in order to revise better.
 
