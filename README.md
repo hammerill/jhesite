@@ -13,7 +13,9 @@ While revising the french Code de la route, I've seen that there were some quest
 This extension will allow to see these questions at a glance of the eye! Also it will show the inverse: if you did not hesitate but got it wrong.
 
 ## How?
-This extension will add a new response button - `J'hésite...`. Look at how it will look like:
+This extension will add a new response button - <kbd>J'hésite...</kbd>.
+
+Look at how it will look like:
 
 ![J'hésite button](./pics/examples/jhesite-button.png)
 
