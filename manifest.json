@@ -1,0 +1,10 @@
+{
+    "name": "J'hésite...",
+    "description": "An extension for Prépacode that lets you tell if you hesitate to answer the question in order to revise better.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "test.html",
+        "default_icon": "pics/jhesite-icon.png"
+    }
+}
